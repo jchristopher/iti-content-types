@@ -1,0 +1,3 @@
+[submodule "includes/taxonomy-single-term"]
+	path = includes/taxonomy-single-term
+	url = git@github.com:WebDevStudios/Taxonomy_Single_Term.git
